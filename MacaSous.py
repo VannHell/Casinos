@@ -1,3 +1,8 @@
+from random import randrange
+
+from jeu import Jeu
+
+
 class MachineASous(Jeu):
     """
         « Les dictateurs et les bandits manchots exercent un pouvoir totalitaire.
