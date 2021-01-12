@@ -1,7 +1,7 @@
-# This is a sample Python script.
-
-# Press Maj+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+from MacaSous import MachineASous
+from Roulette import Roulette
+from casi import Casino
+from joueur import Joueur
 
 
 def main():
@@ -13,8 +13,5 @@ def main():
     joueur.jouer()
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     main()
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
